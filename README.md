@@ -101,8 +101,7 @@ The dashboard includes the following visualizations to analyze trends and patter
 ---
 
 ## Screenshots/Demos
-**Your Name**  
-GitHub: https://github.com/yourusername  
+![Dashboard Preview](https://github.com/shravani-kadlag/pizza-sales-/blob/main/Screenshot%20of%20dashboard.png)
 
 ---
 
